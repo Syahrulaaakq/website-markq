@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: #000000;
+  background-image: url('bgwebsite2.jpg');
+}
+
+
+     
+     *{
+    
+     font: 100%;
+     background-color#34FF00;
+     }
+     .link {
+         font-size: 30px;
+         color:#1500FF;
+     }
+     .akhir {
+         
+         margin-left: 100px;
+         color: #1500FF;
+         text-decoration: none;
+          color: #FFFFFF;
+         padding: 2px 5px;
+         border: 5px solid #FFFFFF ;
+         border-radius: 20px ;
+         transition: 0.6s;
+         margin: 25px;
+         margin-top: 150px;
+     }
+     .konten {
+         margin-top: 300px;
+         color:#1500FF;
+            
+         
+         
+     }
+     .foto{
+         margin-left: 500px;
+         
+     }
+     
+     
+     .konten{
+          text-decoration: none;
+          color: #FFFFFF;
+         padding: 2px 20px;
+         border: 2px solid #FFFFFF ;
+         border-radius: 20px ;
+         transition: 0.6s;
+         margin-inline: 10px;
+         margin: 20px;
+       
+       
+         
+     }
+     .link{
+         
+                   text-decoration: none;
+          color: #FFFFFF;
+         padding: 2px 20px;
+         border: 2px solid #FFFFFF ;
+         border-radius: 20px ;
+         transition: 0.6s;
+         margin-inline: 10px;
+         
+         
+     }
+     .logo{
+         font-size:20px;
+     }
+     .Link {
+        color: white;
+     }
+     .konten1 img{
+         height: 50%;
+         width: 100%;         
+
+                   text-decoration: none;
+          color: #FFFFFF;
+         padding: 2px 20px;
+         border: 2px solid #FFFFFF ;
+         border-radius: 20px ;
+         transition: 0.6s;
+         margin-inline: 10px;
+         margin-top: 20px;
+         
+         
+     }
+     
+     .link h1 {
+        
+     .fotosaya {
+         font-size: 0px;
+     }
